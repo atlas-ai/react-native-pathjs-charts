@@ -1,7 +1,7 @@
 {
   "name": "react-native-pathjs-charts",
   "version": "0.0.33",
-  "description": "Cross platform React Native charting library based on path-js and react-native-svg",
+  "description": "Cross platform React Native charting library based on path-js and react-native-svg5",
   "repository": {
     "type": "git",
     "url": "https://github.com/capitalone/react-native-pathjs-charts"
@@ -14,7 +14,7 @@
   },
   "keywords": [
     "react-native",
-    "react-native-svg",
+    "react-native-svg5",
     "paths-js",
     "react-pathjs-chart",
     "ios",
@@ -39,7 +39,7 @@
   "dependencies": {
     "lodash": "^4.12.0",
     "paths-js": "^0.4.5",
-    "react-native-svg": "~5.5.1"
+    "react-native-svg55": "atlas-ai/react-native-svg5-5.5.1"
   },
   "devDependencies": {
     "babel-jest": "*",
